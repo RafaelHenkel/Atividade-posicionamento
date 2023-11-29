@@ -1,0 +1,114 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.box1{
+    background-color: black;
+    height: 5vw;
+    width: 5vw;
+    position: absolute;
+}
+
+.box2{
+    background-color: black;
+    height: 5vw;
+    width: 5vw;
+    position: absolute;
+    margin-left: 6vw;
+}
+
+.box3{
+    background-color: black;
+    height: 5vw;
+    width: 5vw;
+    position: absolute;
+    margin-top: 6vw;
+}
+
+.box4{
+    background-color: black;
+    height: 5vw;
+    width: 5vw;
+    position: absolute;
+    margin-top: 6vw;
+    margin-left: 6vw;
+
+}
+
+.box5{
+    background-color: black;
+    height: 5vw;
+    width: 5vw;
+    position: absolute;
+    margin-left: 12vw;
+}
+
+.box6{
+    background-color: black;
+    height: 5vw;
+    width: 5vw;
+    position: absolute;
+    margin-top: 12vw;
+}
+
+.box7{
+    background-color: black;
+    height: 5vw;
+    width: 5vw;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.box8{
+    background-color: black;
+    height: 5vw;
+    width: 5vw;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin-bottom: 6vw;
+}
+
+.box9{
+    background-color: black;
+    height: 5vw;
+    width: 5vw;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin-right: 6vw;
+}
+
+.box10{
+    background-color: black;
+    height: 5vw;
+    width: 5vw;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin-bottom: 6vw;
+    margin-right: 6vw;
+}
+
+.box11{
+    background-color: black;
+    height: 5vw;
+    width: 5vw;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin-bottom: 12vw;
+}
+
+.box12{
+    background-color: black;
+    height: 5vw;
+    width: 5vw;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin-right: 12vw;
+}
+

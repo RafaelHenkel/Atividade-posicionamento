@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.box{
+    width: 40%;
+    height: 10%;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.chat1{
+    border-radius: 30px;
+    text-align: end;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.chat2{
+    border: 2px solid red;
+    overflow-y: scroll;
+}
+
+

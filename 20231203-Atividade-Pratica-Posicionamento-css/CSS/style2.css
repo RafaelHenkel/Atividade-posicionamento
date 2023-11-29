@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.quadrado1{
+    background-color: black;
+    height: 20vw;
+    width: 20vw;
+    position: absolute
+}
+
+.quadrado2{
+    background-color: black;
+    height: 20vw;
+    width: 20vw;
+    position: absolute;
+    right: 0;
+}
+
+.quadrado3{
+    background-color: black;
+    height: 20vw;
+    width: 20vw;
+    position: absolute;
+    bottom: 0;
+}
+
+.quadrado4{
+    background-color:black;
+    height: 20vw;
+    width: 20vw;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+
